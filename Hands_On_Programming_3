@@ -1,9 +1,11 @@
-        String MyString = "543";
+        //String MyString = "543";
         
-        public void RotateArray(string str)
+        //public void RotateArray(string str)
+        
+        public void RotateArray()
         {
 
-            //string str = "543";
+            string str = "543";
             string OutPut = "";
             for (int i = str.Length - 1; i >= 0; i--)
             {
